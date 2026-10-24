@@ -78,9 +78,9 @@ Les raccourcis Ctrl + Alt + D / L / M / K choisissent le style (phrase courte, t
 
 ### Signaler un problème
 
-Menu de l'icône › **Réglages › Avancé › Diagnostic** produit un rapport sans aucune donnée de patient : envoyez-le avec une phrase décrivant ce qui s'est passé. Pour un mot mal reconnu, le plus utile est la ligne de **« Dernières dictées »** correspondante (entendu / inséré), après avoir retiré toute donnée de patient.
+Panneau › **« Signaler un problème… »** : décrivez ce qui s'est passé en une phrase, cochez si vous voulez joindre les trois dernières dictées (elles s'affichent pour que vous les relisiez : données de patients possibles), puis « Préparer le courriel ». Un message s'ouvre dans Mail, le rapport est joint (version, machine, réglages, sans donnée de patient) ; relisez et envoyez.
 
-*Sèdo est en développement actif : cette page est mise à jour à chaque version. Version du document : 0.5.176.*
+*Sèdo est en développement actif : cette page est mise à jour à chaque version. Version du document : 0.5.179.*
 
 ## Confidentialité
 
